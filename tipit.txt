@@ -1,1 +1,7 @@
-intensiteetin ja fluxin ero, pintakirkkaus säilyy samana
+- intensiteetin ja fluxin ero, pintakirkkaus säilyy samana
+- 1.2. luentoon liittyvä kysymys tenttiin, miten spektriviivat syntyvät?
+   - oppikirjan nelikenttä, boem&wittensse tms
+- eddingtonin approksimaatio: K=J/3
+- reunantummeneminen?
+- harmaa atmosfääri, mitä tarkoittaa, miksi oletetaan
+- chandrasekharista ei yksityiskohtia tai legendrejen yms laskemista, ideasta voi olla kysymyksiä
