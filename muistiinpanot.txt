@@ -1,0 +1,7 @@
+Kaasumaisen tilan fysiikkaa:
+- ideaalikaasu PV=NRT, P~T
+- Degeneroitunutta, P=K*rho^(5/3) non-relativistic, P=K*rho^(4/3) full relative
+- kaasun paine: P_g=NkT
+- Elektronipaine: P_e=N_ekT
+- Neutraali kaasu: N_e = 0 -> P_e = 0
+- Täysin ionisoitunut vetykaasu: P_g = 2*P_e
