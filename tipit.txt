@@ -5,3 +5,5 @@
 - reunantummeneminen?
 - harmaa atmosfääri, mitä tarkoittaa, miksi oletetaan
 - chandrasekharista ei yksityiskohtia tai legendrejen yms laskemista, ideasta voi olla kysymyksiä
+- miksi kevyet hiukkaset karkaavat (vbar ~ sqrt(T/m))
+- kutoslaskarien aiheesta yksi tai useampikin tentissä
