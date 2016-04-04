@@ -7,3 +7,14 @@
 - chandrasekharista ei yksityiskohtia tai legendrejen yms laskemista, ideasta voi olla kysymyksiä
 - miksi kevyet hiukkaset karkaavat (vbar ~ sqrt(T/m))
 - kutoslaskarien aiheesta yksi tai useampikin tentissä
+- spektriluokkien selittäminen
+   - perustuu eri alkuaineiden spektriviivojen vahvuuksiin, riippuu lämpötilasta
+- kuinka erottaa kääpiö ja jättiläinen (gravitaatio pinnalla eroaa -> elektronipaine eroaa)
+- lyman, balmer, pachen...
+- mitä tarkoittaa LTE
+   - esim
+
+---------
+
+- auringon ja kuumemman tähden atmorfäärimallien erot
+- rayleighin sironnan johto
